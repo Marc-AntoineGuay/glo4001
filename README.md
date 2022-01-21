@@ -108,6 +108,7 @@ d'avoir activé l'environnement virtuel avant de lancer cette commande.
 
 ```
 $ cd glo4001
+$ sudo apt-get install pip
 $ pip install -r requirements.txt
 ```
 
